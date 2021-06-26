@@ -1,0 +1,1 @@
+[12-Aug-2020 11:12:16 UTC] PHP Fatal error:  Using $this when not in object context in /home/speedmar/my.speedmark.co.id/custommodul/assets/js/ajax_user.php on line 5

@@ -1,0 +1,61 @@
+[24-Aug-2018 05:30:09 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:32:14 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:32:29 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:32:29 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:33:03 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:34:39 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:35:35 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:35:36 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:35:37 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:35:37 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:35:38 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:35:39 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[24-Aug-2018 05:40:11 America/Chicago] PHP Fatal error:  Call to undefined function pg_connect() in /home/tpsfinlo/public_html/custommodul/system/database/drivers/postgre/postgre_driver.php on line 154
+[27-Aug-2018 03:13:05 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:14:42 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:43:06 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:43:10 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:43:18 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:43:19 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:56:26 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:56:28 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:56:33 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:56:34 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:58:25 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 03:59:49 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 04:00:26 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 04:00:29 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 04:00:32 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 04:01:40 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 04:03:26 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[27-Aug-2018 04:03:27 America/Chicago] PHP Fatal error:  Call to a member function get_data_by_date() on a non-object in /home/tpsfinlo/public_html/custommodul/application/controllers/Report.php on line 31
+[06-Sep-2018 03:52:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tpsfinlo/public_html/custommodul/application/views/list_data_report.php on line 16
+[06-Sep-2018 03:54:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$cm' (T_VARIABLE) in /home/tpsfinlo/public_html/custommodul/application/views/list_data_report.php on line 15
+[06-Sep-2018 03:55:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/tpsfinlo/public_html/custommodul/application/views/list_data_report.php on line 26
+[06-Sep-2018 03:55:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/tpsfinlo/public_html/custommodul/application/views/list_data_report.php on line 26
+[14-Nov-2019 09:31:00 UTC] PHP Fatal error:  Call to a member function select() on null in /home/speedmar/my.speedmark.co.id/custommodul/application/core/AUTH_Controller.php on line 21
+[19-Nov-2019 08:14:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:15:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:15:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:15:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:15:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:16:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:16:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:16:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:16:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:16:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:16:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:17:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:17:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:17:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:17:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[19-Nov-2019 08:17:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 18
+[22-Nov-2019 08:27:36 America/New_York] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_CustomModuls.php on line 82
+[24-Nov-2019 22:51:17 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_CustomModuls.php on line 107
+[25-Nov-2019 04:40:37 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 38
+[25-Nov-2019 04:40:42 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 38
+[25-Nov-2019 04:41:38 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 38
+[25-Nov-2019 04:41:39 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 38
+[25-Nov-2019 04:41:39 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/speedmar/my.speedmark.co.id/custommodul/application/models/M_Report.php on line 38
+[05-Dec-2019 02:13:08 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/speedmar/my.speedmark.co.id/custommodul/application/views/home.php on line 46
+[05-Dec-2019 02:13:29 America/New_York] PHP Parse error:  syntax error, unexpected ''OR'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/speedmar/my.speedmark.co.id/custommodul/application/views/home.php on line 46
